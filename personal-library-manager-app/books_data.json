@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "Asharib Ali",
+        "year": "2025",
+        "genre": "Kahani",
+        "read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": "1960",
+        "genre": "Fiction, Historical Fiction",
+        "read": false
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925",
+        "genre": "Fiction, Classic",
+        "read": true
+    },
+    {
+        "title": "Harry Potter and the Sorcerer\u2019s Stone",
+        "author": "J.K. Rowling",
+        "year": "1997",
+        "genre": " Fantasy, Young Adult",
+        "read": false
+    }
+]
